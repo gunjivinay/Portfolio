@@ -159,7 +159,7 @@ function App() {
               <a href="#projects" className="border border-white hover:bg-white hover:text-gray-900 px-8 py-3 rounded-full transition-all transform hover:scale-105 animate-pulse">
                 View Work
               </a>
-              <a href="https://drive.google.com/file/d/11ryQaGR6QYO3i5uoWfBgO-SqErTUYsH6/view?usp=drive_link" className="border border-white hover:bg-white hover:text-gray-900 px-8 py-3 rounded-full transition-all transform hover:scale-105 animate-pulse">
+              <a href="https://drive.google.com/file/d/1o9sAdnNLypBAzrIVJ3OOAQ8BeiHyOmZJ/view?usp=sharing" className="border border-white hover:bg-white hover:text-gray-900 px-8 py-3 rounded-full transition-all transform hover:scale-105 animate-pulse">
                 Check Resume
               </a>
             </div>
